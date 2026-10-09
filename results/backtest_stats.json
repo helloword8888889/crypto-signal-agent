@@ -1,0 +1,14 @@
+{
+  "final_equity": 12960.363672725156,
+  "total_return_pct": 29.60363672725157,
+  "buy_hold_return_pct": 24.396544691496793,
+  "num_trades": 16,
+  "win_rate_pct": 50.0,
+  "profit_factor": 1.9457604057376638,
+  "max_drawdown_pct": -18.917276331483368,
+  "sharpe": 0.5830433325155143,
+  "symbol": "BTCUSDT",
+  "interval": "1d",
+  "bars": 1000,
+  "start_equity": 10000.0
+}
